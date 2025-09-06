@@ -1,2 +1,2 @@
-# OOPJ-Module
-Java OOP assignments solved as part of the OOPJ module. Covers key concepts like inheritance, polymorphism, abstraction, and encapsulation with practical examples.
+# Logic Building-Module
+The repository contains a collection of Java programs designed to improve logic building and problem-solving skills. Exercises range from beginner to intermediate level, covering core programming concepts.
